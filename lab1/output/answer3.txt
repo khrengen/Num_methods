@@ -1,0 +1,18 @@
+Rewriting the system to equivalent form x = beta + alfa * x :
+alfa = 
+0.000	-0.250	0.167	0.292	
+0.381	0.000	-0.190	0.095	
+-0.375	-0.375	0.000	-0.000	
+0.292	0.292	-0.208	0.000	
+
+beta = ( -5.41667 6.61905 -5.25 -6.875 )
+
+Simple iterations (eps = 0.001) :
+
+X = ( -9 3.00001 -3.00001 -7.99998 )
+ number of iterations = 12
+-----------------------------
+Zeidel method (eps = 0.001) :
+
+X = ( -9 2.99999 -2.99999 -8.00001 )
+number of iterations = 7
