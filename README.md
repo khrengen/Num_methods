@@ -21,3 +21,9 @@
 
 
 [КП](https://github.com/khrengen/Num_methods/tree/main/KP) -  Решение систем линейных алгебраических уравнений с симметричными разреженными матрицами большой размерности. Метод сопряженных градиентов.
+
+5. Дифференциальные уравнения параболического типа - [lab5](https://github.com/khrengen/Num_methods/tree/main/lab5)
+6. Дифференциальные уравнения гиперболического типа - [lab6](https://github.com/khrengen/Num_methods/tree/main/lab6)
+7. Дифференциальные уравнения эллиптического типа - [lab7](https://github.com/khrengen/Num_methods/tree/main/lab7)
+8. Методы расщепления - [lab8](https://github.com/khrengen/Num_methods/tree/main/lab8)
+
